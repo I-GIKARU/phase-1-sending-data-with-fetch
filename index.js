@@ -1,4 +1,7 @@
 // Add your code here
+/* document.addEventListener("DOMContentLoaded", () => {
+    submitData("my user ", "myuser@example.com");
+}); */
 function submitData(name, email) {
     const formData = {
         name: name,
